@@ -42,6 +42,7 @@ In this exercise, you will:
    <a id="start-exercise" href="https://github.com/wangdown/game/issues/1">
       <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
    </a>
+   a new branch practice
 
 > [!IMPORTANT]
 > The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page.
